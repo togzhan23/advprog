@@ -56,6 +56,9 @@ To run the application locally:
 
 - **Ask a Question**:
     - Type in a question related to the documents you added. The app will retrieve relevant information and generate an answer using the RAG pipeline.
+ 
+      
 
-## Project Structure
+
+
 
