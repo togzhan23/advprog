@@ -56,7 +56,11 @@ To run the application locally:
 
 - **Ask a Question**:
     - Type in a question related to the documents you added. The app will retrieve relevant information and generate an answer using the RAG pipeline.
- 
+
+
+ Screenshot of the chat with Ollama: 
+ <img width="1425" alt="image" src="https://github.com/user-attachments/assets/09c116ae-590d-4c15-9ab2-8e63a252f888" />
+
       
 
 
