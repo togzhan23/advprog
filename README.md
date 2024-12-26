@@ -1,5 +1,5 @@
 # Advanced programming
-assignment 1 advanced programming. Togzhan Oral  
+assignment 1 advanced programming.  Team work by Togzhan Oral and Yelnura Akhmetova. 
 
 # Chat with ollama - RAG integration
 
